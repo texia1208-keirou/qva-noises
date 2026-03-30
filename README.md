@@ -7,3 +7,6 @@ The site is available in Japanese only.
 このサイトでは、6種類のカラードノイズを再生することができます。
 集中したいときや、深く眠りたいときに使えるでしょう。
 対応言語は日本語のみです。
+<br>
+<br>
+https://texia1208-keirou.github.io/qva-noises/
