@@ -9,4 +9,4 @@ The site is available in Japanese only.
 対応言語は日本語のみです。
 <br>
 <br>
-https://qb0x0-keirou.github.io/qva-noises/
+https://qb0x0.github.io/qva-noises/
